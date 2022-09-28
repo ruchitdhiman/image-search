@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.6b15b23b.js",
-    "index.html": "/index.html",
-    "main.6b15b23b.js.map": "/static/js/main.6b15b23b.js.map"
+    "main.js": "/IMAGE-SEARCH/static/js/main.6b15b23b.js",
+    "index.html": "/IMAGE-SEARCH/index.html",
+    "main.6b15b23b.js.map": "/IMAGE-SEARCH/static/js/main.6b15b23b.js.map"
   },
   "entrypoints": [
     "static/js/main.6b15b23b.js"
